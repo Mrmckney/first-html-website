@@ -1,0 +1,18 @@
+body {
+    background: rgb(14,36,0);
+    background: 
+        linear-gradient(90deg, 
+        rgba(14,36,0,1) 0%, 
+        rgba(50,121,9,0.9738270308123249) 5%, 
+        rgba(0,255,254,1) 79%);
+        text-align: center;
+}
+
+h2 {
+    background-color: white;
+    color: black;
+}
+
+h1 {
+    color: black;
+}
